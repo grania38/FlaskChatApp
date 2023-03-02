@@ -6,7 +6,7 @@ It's an online chat application.
 Python, HTML, CSS and JavaScript.
 Flask, Flask SQLAlchemy, Flask Socket IO, Flash Login and SocketIO.
  
-NB: The authentification process is completed. The chat part is still under construction! :wink:
+NB: The authentification process is completed. The chat part is still under construction! :wink: :smile:
 
 
 
